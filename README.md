@@ -42,30 +42,6 @@ principles:
 
 status: "Still learning. Still building."
 ```
-
-```go
-package main
-
-import "fmt"
-
-func main() {
-    engineer := struct {
-        Name  string
-        Focus []string
-    }{
-        Name: "SenYu",
-        Focus: []string{
-            "Go",
-            "Backend",
-            "Distributed Systems",
-            "Infrastructure",
-        },
-    }
-
-    fmt.Printf("%s is building reliable systems.\n", engineer.Name)
-}
-```
-
 ---
 
 ## ⚙️ Backend Stack
