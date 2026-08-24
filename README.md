@@ -72,7 +72,7 @@ func main() {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,docker,redis,mysql,mongodb,kafka,nginx,linux,git,github,githubactions,vscode&perline=12" alt="backend stack" />
+<img src="https://skillicons.dev/icons?i=go,docker,redis,mysql,mongodb,kafka,nginx,linux,git,github,githubactions&perline=12" alt="backend stack" />
 
 <br/><br/>
 
@@ -89,53 +89,6 @@ func main() {
 
 ---
 
-## 🚀 Projects & Open Source
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💬 OpenIM Server
-
-Backend server for instant messaging and distributed communication.
-
-[![Open-IM-Server](https://github-readme-stats.vercel.app/api/pin/?username=senyu-up&repo=Open-IM-Server&theme=github_dark&hide_border=true&title_color=22c55e&icon_color=22c55e)](https://github.com/senyu-up/Open-IM-Server)
-
-</td>
-<td width="50%" valign="top">
-
-### 📝 Logger
-
-A convenient Go logging package for backend services.
-
-[![Logger](https://github-readme-stats.vercel.app/api/pin/?username=senyu-up&repo=logger&theme=github_dark&hide_border=true&title_color=22c55e&icon_color=22c55e)](https://github.com/senyu-up/logger)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🐳 OpenIM Docker
-
-Docker-based deployment and infrastructure tooling.
-
-[![OpenIM Docker](https://github-readme-stats.vercel.app/api/pin/?username=senyu-up&repo=openim-docker&theme=github_dark&hide_border=true&title_color=22c55e&icon_color=22c55e)](https://github.com/senyu-up/openim-docker)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Go Captcha
-
-Go-related utility and backend tooling.
-
-[![Go Captcha](https://github-readme-stats.vercel.app/api/pin/?username=senyu-up&repo=go-captcha&theme=github_dark&hide_border=true&title_color=22c55e&icon_color=22c55e)](https://github.com/senyu-up/go-captcha)
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📊 GitHub Analytics
 
@@ -165,7 +118,7 @@ Go-related utility and backend tooling.
 
 ---
 
-## 🐍 Contribution Graph
+## ⭐️ Contribution Graph
 
 <div align="center">
 
