@@ -42,6 +42,7 @@ principles:
 
 status: "Still learning. Still building."
 ```
+
 ---
 
 ## ⚙️ Backend Stack
@@ -65,32 +66,30 @@ status: "Still learning. Still building."
 
 ---
 
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=senyu-up&show_icons=true&theme=github_dark&hide_border=true&title_color=22c55e&icon_color=22c55e&rank_icon=github"
-  alt="GitHub stats"
+<img width="49%"
+src="./profile/stats.svg"
+alt="GitHub Stats"
 />
 
-<img
-  width="49%"
-  src="https://streak-stats.demolab.com?user=senyu-up&theme=github-dark-blue&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E"
-  alt="GitHub streak"
+<img width="49%"
+src="./profile/streak.svg"
+alt="GitHub Streak"
 />
 
 <br/>
 
-<img
-  width="52%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=senyu-up&layout=compact&theme=github_dark&hide_border=true&title_color=22c55e&langs_count=8"
-  alt="Top languages"
+<img width="52%"
+src="./profile/top-langs.svg"
+alt="Top Languages"
 />
 
 </div>
+
+---
 
 ---
 
